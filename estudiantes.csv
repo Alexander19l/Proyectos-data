@@ -1,0 +1,201 @@
+Nombre,Edad,Nota,Departamento
+Julia Reátegui,23.0,15.1,Lima
+Lucía Velásquez,21.0,17.3,Puno
+Luis Alvarado,20.0,5.6,Lima
+Alonso Vargas,23.0,7.7,La Libertad
+Fiorella Aguirre,22.0,18.5,Pasco
+Raúl Ticona,22.0,15.8,Cusco
+José Vargas,16.0,15.2,Áncash
+Fiorella Zapata,16.0,11.4,Loreto
+Rocío Vargas,22.0,10.7,Piura
+Andrés Pizarro,21.0,13.0,Piura
+César Guzmán,21.0,10.1,La Libertad
+Wilder Flores,22.0,7.2,Loreto
+Bruno Chumpitaz,22.0,9.2,Lima
+Álvaro Ticona,21.0,14.1,Cusco
+Estefanía Meza,22.0,15.4,Madre de Dios
+Lucía Tapia,22.0,19.0,Tumbes
+Julia Pariona,24.0,13.7,Ica
+Rocío Ávila,19.0,15.3,Cusco
+Carmen Maldonado,24.0,18.7,Lima
+Valeria Espinoza,,10.2,Puno
+Lucía Mamani,21.0,9.7,Lima
+Brenda Farfán,19.0,11.6,Tumbes
+Estefanía Ticona,22.0,11.8,San Martín
+Álvaro Guzmán,24.0,19.8,Lima
+Valeria Paredes,18.0,11.8,Lima
+Alonso Farfán,21.0,16.9,Cajamarca
+Yolanda Velásquez,21.0,10.7,Huánuco
+Marco Vargas,19.0,14.0,Piura
+Jorge Alvarado,19.0,13.6,Junín
+Iván Chumpitaz,16.0,15.2,Callao
+Rocío Guzmán,17.0,14.9,Apurímac
+César Mamani,16.0,11.1,Callao
+Rocío Zapata,19.0,17.9,Lima
+Patricia Huamán,19.0,15.5,San Martín
+Raúl Maldonado,19.0,8.9,Junín
+Camila Paredes,22.0,15.3,Pasco
+Miguel Zapata,,9.1,Arequipa
+Pedro Torres,19.0,12.7,Piura
+Miguel Maldonado,19.0,8.2,San Martín
+Juan Ccahuana,17.0,15.5,Lambayeque
+Julia Linares,20.0,20.0,La Libertad
+Claudia Farfán,20.0,17.2,San Martín
+Carmen Linares,26.0,15.9,Callao
+Manuel Yupanqui,26.0,9.1,San Martín
+Pedro Reátegui,26.0,13.4,San Martín
+Néstor Pariona,28.0,17.4,Tumbes
+César Aguirre,17.0,12.5,Puno
+Ana Espinoza,23.0,13.4,Lima
+Raúl Tapia,23.0,7.2,Lima
+Patricia Espinoza,23.0,10.1,Lima
+Percy Huamán,28.0,7.4,Cusco
+Fiorella Rojas,29.0,19.1,Ucayali
+Lucía Alvarado,24.0,14.2,Áncash
+Carlos Farfán,23.0,16.2,Cusco
+Raúl Chumpitaz,17.0,11.5,Tacna
+Fernando Velásquez,17.0,7.2,Tacna
+Camila Sánchez,23.0,14.3,Cusco
+Manuel Alvarado,21.0,10.4,Ucayali
+Néstor Guzmán,17.0,9.0,Piura
+Valeria Paredes,21.0,13.6,Moquegua
+Brenda Chávez,22.0,13.3,Lima
+Elena Barrientos,24.0,10.7,Junín
+Katherine Maldonado,21.0,10.2,Amazonas
+Hugo Nolasco,20.0,9.0,Ica
+Sergio Salazar,21.0,12.4,Ica
+Wilder Reátegui,22.0,16.9,Arequipa
+Claudia Alvarado,17.0,7.3,Arequipa
+Yolanda Yupanqui,24.0,11.5,Cusco
+Elena Flores,28.0,12.5,Lambayeque
+Andrés Ramos,24.0,12.8,Moquegua
+Raúl Alvarado,16.0,11.0,Lima
+Sergio Farfán,21.0,19.5,Lima
+Wilder Sulca,16.0,14.9,Pasco
+Karla Sulca,16.0,9.0,Piura
+Fernando Maldonado,23.0,6.9,La Libertad
+Manuel Condori,21.0,12.4,Lima
+Gabriela Ordóñez,19.0,17.2,San Martín
+Álvaro Guzmán,16.0,13.4,Arequipa
+Ana Nolasco,17.0,5.1,Lima
+Diego Nolasco,22.0,8.7,Moquegua
+Gabriela Ticona,21.0,13.8,La Libertad
+Silvia Ticona,23.0,16.0,Loreto
+Gabriela Salazar,26.0,12.8,Piura
+Diego Zapata,20.0,13.8,Madre de Dios
+José Vargas,23.0,16.6,Lima
+Pedro Rojas,21.0,17.2,Lima
+Jorge Quispe,19.0,10.7,Lima
+Bruno Pariona,20.0,12.8,Junín
+Manuel Pariona,24.0,9.3,Áncash
+Juan Barrientos,18.0,8.5,Tacna
+Óscar Torres,25.0,15.3,La Libertad
+Milagros Ramos,26.0,8.9,Cusco
+Raúl Mamani,21.0,14.3,Cusco
+Fernando Rojas,22.0,12.4,Junín
+Alonso Farfán,16.0,15.9,Lima
+Carlos Pariona,29.0,9.1,Lambayeque
+Miguel Ticona,24.0,12.6,Junín
+Estefanía Rojas,22.0,12.3,Arequipa
+Brenda Pizarro,21.0,17.6,Ucayali
+Óscar Sánchez,22.0,10.0,Áncash
+Patricia Flores,19.0,8.4,San Martín
+Alonso Ordóñez,22.0,14.2,Áncash
+Luis Pariona,18.0,10.1,Lambayeque
+Fiorella Espinoza,23.0,9.1,Pasco
+Andrés Mamani,19.0,16.1,Lima
+Manuel Meza,24.0,14.4,Lima
+Marco Chumpitaz,21.0,2.2,Arequipa
+Milagros Torres,22.0,9.7,Puno
+Julia Nolasco,30.0,9.2,Lima
+Raúl Farfán,24.0,14.4,Tacna
+Luis Vargas,22.0,17.6,Ucayali
+Néstor Vargas,21.0,20.0,Madre de Dios
+Wilder Torres,18.0,14.7,Piura
+Karla Aguirre,24.0,9.7,Tumbes
+Katherine Sánchez,26.0,,Lima
+Gabriela Zapata,21.0,9.7,Lima
+Wilder Vargas,26.0,14.6,Lima
+Ana Chávez,21.0,,Lima
+Luis Farfán,16.0,6.4,Lima
+Wilder Pizarro,19.0,15.0,Lima
+Hugo Tapia,18.0,,Amazonas
+Iván Paredes,20.0,13.0,Ayacucho
+Marco Chumpitaz,23.0,20.0,Junín
+Camila Bustamante,18.0,15.5,Cusco
+Estefanía Castillo,21.0,13.1,Lima
+Milagros Torres,22.0,14.6,Ucayali
+Diego Ríos,19.0,11.8,Cusco
+Carmen Aguirre,18.0,,Piura
+Lucía Sánchez,21.0,13.8,Ica
+Álvaro Pariona,24.0,16.9,Lima
+Patricia Mamani,19.0,12.0,Arequipa
+Percy Mamani,19.0,16.1,Lima
+Andrés Salazar,21.0,11.7,Lambayeque
+María Barrientos,22.0,17.9,Piura
+Sofía Meza,19.0,13.5,Arequipa
+Andrés Mamani,20.0,14.8,Lambayeque
+Bruno Paredes,20.0,15.4,Puno
+Estefanía Rojas,18.0,8.4,Lima
+Estefanía Nolasco,,11.8,Cajamarca
+Diego Alvarado,19.0,18.6,Piura
+Renzo Pariona,26.0,13.5,Callao
+Karla Ramos,19.0,17.5,Arequipa
+Yolanda Chávez,22.0,15.8,Arequipa
+Gabriela Guzmán,22.0,7.3,Pasco
+Carlos Alvarado,17.0,14.8,Piura
+Paola Paredes,17.0,9.1,Puno
+Claudia Nolasco,20.0,14.2,Madre de Dios
+Sergio Barrientos,23.0,11.4,Puno
+Sergio Mamani,19.0,12.3,Tacna
+Melissa Maldonado,19.0,12.7,Lima
+Brenda Paredes,16.0,,Lima
+Alonso Flores,20.0,10.7,Tacna
+Valeria Tapia,22.0,8.4,Lambayeque
+Lucía Tapia,22.0,10.0,Callao
+Jorge Chumpitaz,22.0,15.3,Tacna
+Sergio Castillo,20.0,18.4,Áncash
+Pedro Espinoza,20.0,13.8,Lima
+Luis Velásquez,24.0,15.1,Tacna
+Luis Ordóñez,21.0,15.7,Loreto
+Valeria Chumpitaz,16.0,8.3,Lima
+Brenda Ríos,24.0,6.6,Lambayeque
+Valeria Sulca,18.0,13.5,Cusco
+Jorge Chávez,25.0,6.5,Lima
+Néstor Sulca,26.0,11.5,Loreto
+María Torres,23.0,7.9,Lima
+Milagros Tapia,24.0,11.2,Madre de Dios
+Carmen Vargas,27.0,10.8,Tumbes
+Carmen Linares,17.0,14.7,Lima
+Fiorella Sulca,22.0,10.8,Lima
+Ana Chumpitaz,22.0,8.4,Piura
+Julia Velásquez,18.0,13.1,Lima
+Yolanda Ávila,27.0,20.0,Cusco
+Katherine Ríos,19.0,15.2,Pasco
+Milagros Reátegui,19.0,5.7,Piura
+Óscar Nolasco,22.0,12.9,Ucayali
+Yolanda Huamán,24.0,20.0,Áncash
+Raúl Torres,19.0,13.6,Lambayeque
+Karla Farfán,19.0,16.7,Apurímac
+Karla Zapata,23.0,16.8,Lambayeque
+Melissa Espinoza,16.0,17.4,La Libertad
+Diego Salazar,19.0,17.0,Callao
+Álvaro Castillo,18.0,13.5,Ucayali
+Lucía Linares,20.0,11.8,Loreto
+Carlos Salazar,21.0,10.3,Junín
+Sofía Quispe,27.0,14.0,Pasco
+Sergio Alvarado,24.0,15.2,Cusco
+Sofía Reátegui,21.0,9.4,Cusco
+Wilder Meza,20.0,,Moquegua
+Fernando Ccahuana,24.0,12.8,Lima
+Alonso Ávila,22.0,13.9,Pasco
+José Mamani,24.0,10.2,Junín
+Rocío Ríos,25.0,15.2,Cajamarca
+José Zapata,18.0,13.0,La Libertad
+Óscar Ordóñez,16.0,11.1,Loreto
+Wilder Meza,21.0,8.1,Piura
+Álvaro Chávez,21.0,9.5,San Martín
+Percy Tapia,22.0,13.3,Ucayali
+Juan Chumpitaz,19.0,12.2,Huancavelica
+Paola Linares,20.0,5.4,Piura
+Fernando Pariona,23.0,15.7,Ucayali
