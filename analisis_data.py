@@ -1,6 +1,7 @@
 import numpy as np
 
 import pandas as pd
+
 """**1**"""
 
 df = pd.read_csv('estudiantes.csv')
@@ -290,6 +291,8 @@ reporte = reporte.sort_values(
 )
 
 reporte = reporte.round(2)
+
+reporte = reporte.reset_index()
 
 print(reporte)
 
