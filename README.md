@@ -1,11 +1,12 @@
 # Análisis Exploratorio de Datos: Rendimiento Académico Estudiantil
 
+<img src="./assets/mascota.png" alt="Mascota del proyecto" width="90" align="right" />
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Estadística-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-Completado-brightgreen)
-![License](https://img.shields.io/badge/Licencia-MIT-lightgrey)
 
 Análisis exploratorio de datos (EDA) sobre el rendimiento académico de **200 estudiantes** distribuidos en **25 departamentos del Perú**, desarrollado con Python, Pandas y NumPy. El proyecto cubre desde la limpieza de datos hasta estadística descriptiva, segmentación, detección de outliers y generación de un reporte final consolidado.
 
@@ -160,3 +161,9 @@ jupyter notebook analisis.ipynb
 Proyecto desarrollado como parte de una práctica de análisis de datos con Python.
 
 **Repositorio:** [Alexander19l/Proyectos-data](https://github.com/Alexander19l/Proyectos-data)
+
+## Cuadro Representativo de los datos extraídos
+
+![Tasa de aprobación por departamento](./assets/dashboard-departamentos.png)
+
+Vista consolidada de los 25 departamentos: 178 estudiantes con nota registrada, 120 aprobados y 58 desaprobados (67.42% de tasa de aprobación total). El color indica el nivel de cada departamento: verde para 80% o más, ámbar entre 60% y 79%, y rojo por debajo de 60%.
